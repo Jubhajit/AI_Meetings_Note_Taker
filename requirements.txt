@@ -1,0 +1,15 @@
+gradio
+pyaudio
+wave
+openai-whisper
+noisereduce
+numpy
+transformers
+torch==2.5.1+cu121 #pip install torch==2.5.1+cu121 --index-url https://download.pytorch.org/whl/cu121
+langdetect
+reportlab
+soundfile
+textwrap3
+textwrap
+soundfile
+python-docx

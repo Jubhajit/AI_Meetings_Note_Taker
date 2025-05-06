@@ -1,0 +1,23 @@
+# Ignore Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore virtual environment
+venv/
+.env/
+
+# Ignore large model files (if needed)
+models/
+
+# Ignore log files
+logs/
+*.log
+
+# Ignore temporary files
+*.tmp
+*.swp
+*.swo
+
+# Ignore Hugging Face cache
+~/.cache/huggingface/
